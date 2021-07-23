@@ -1,5 +1,13 @@
 # Cell Segmentation Tool
+## Installation
 
+Required Packages:
+    * Python(>3.6)
+    * click
+    * numpy
+    * pandas
+    * scikit-image
+    
 ## Purpose
 The purpose of this application to to:
 1. Perform a segmentation task on MERFISH images with any algorithm of their choosing

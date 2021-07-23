@@ -98,3 +98,5 @@ The outputs of the ```compare_metrics``` command are
 In actuality, you do not need to create a separate python file for a new method or metric.
 The name used in the command line is actually the function name, not the filename
 
+# Contributing
+Please message the author and create a pull request
